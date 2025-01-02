@@ -57,7 +57,7 @@ This project provides an automated solution to efficiently gather trending topic
     pip3 install -r requirements.txt
     ```
 
-3. Create a .env file in the root directory and add your Twitter credentials:
+3. Create a `.env` file and add your Twitter credentials:
     ```env
     USERNAME=your_twitter_email_Id
     USER=your_twitter_username
@@ -75,8 +75,11 @@ python3 trending-topics.py
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/bb1a7a4d-7502-451a-ae8d-dc2e4a6336ee" alt="Flowchart" height="800">
-    <img src="https://github.com/user-attachments/assets/ce1d1b3d-894f-48b8-89b6-8238e3cce7e0" width="400" alt="Trending Topics"/>
-    <img width="800" alt="Script Output" src="https://github.com/user-attachments/assets/658925db-7bfc-4d24-85c3-f6ba7fc7c250"/>
 </div>
 
+## Screenshots
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ce1d1b3d-894f-48b8-89b6-8238e3cce7e0" width="700" alt="Trending Topics"/>
+    <img width="800" alt="Script Output" src="https://github.com/user-attachments/assets/658925db-7bfc-4d24-85c3-f6ba7fc7c250"/>
+</div>
