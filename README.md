@@ -68,7 +68,7 @@ This project provides an automated solution to efficiently gather trending topic
 
 Run the trending-topics.py script to log in to Twitter and fetch the top trending topics:
 ```sh
-python trending-topics.py
+python3 trending-topics.py
 ```
 
 ## Flowchart
