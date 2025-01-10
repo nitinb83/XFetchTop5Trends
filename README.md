@@ -83,3 +83,8 @@ python3 trending-topics.py
     <img src="https://github.com/user-attachments/assets/ce1d1b3d-894f-48b8-89b6-8238e3cce7e0" width="700" alt="Trending Topics"/>
     <img width="800" alt="Script Output" src="https://github.com/user-attachments/assets/658925db-7bfc-4d24-85c3-f6ba7fc7c250"/>
 </div>
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./gpl-3.0.txt) file for details.
+
